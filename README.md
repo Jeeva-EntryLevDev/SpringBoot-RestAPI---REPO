@@ -3,8 +3,9 @@ CREATING SPRING BOOT FIRST REST API
 Used : 
 spring initializer 
 postman request triggering
-spring-starter-web,                          spring-boot-devtools
-@RestController 
+spring-starter-web,
+spring-boot-devtools
+@RestController
 @RequestMapping()
 @GetMapping()
 
